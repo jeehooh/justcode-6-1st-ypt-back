@@ -23,14 +23,14 @@
 
 # Features
 **Tables**
-- User (GET, POST)
-- Login (GET)
-- Products (GET)
-- Carts (GET, POST, PUT, DELETE)
-- Orders (GET, POST)
-- Reviews (GET, POST, DELETE)
-- Inquiry (POST)
-- Location (GET)
+- User (GET, POST): 오지호
+- Login (GET): 오지호
+- Products (GET): 오서준
+- Carts (GET, POST, PUT, DELETE): 오서준
+- Orders (GET, POST): 오서준
+- Reviews (GET, POST, DELETE): 오지호
+- Inquiry (POST): 오지호
+- Location (GET): 
 
 # API Documentation
 - VS SHARE
